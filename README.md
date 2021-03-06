@@ -1,6 +1,10 @@
-> 程序员哥哥，你是来找可莉玩的吗？
+<h1 style="text-align:center">
+可莉语音包<br/><hr/>
+<img src="img.jpg" style="width:50%" />
+</h1>
 
-# Klee-rainbow-fart
+
+> 程序员哥哥，你是来找可莉玩的吗？
 
 可莉语音包，适用于 [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) 拓展。
 
