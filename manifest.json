@@ -1,0 +1,174 @@
+{
+  "name": "klee-chinese-voice",
+  "version": "1.0.0",
+  "display-name": "程序员是好人！",
+  "description": "你是来找可莉玩的吗？",
+  "author": "染樱 GitHub@Ran-ying",
+  "avatar": "img.png",
+  "gender": "female",
+  "locale": "zh-cn",
+  "languages": [
+    "JavaScript",
+    "C#",
+    "php"
+  ],
+  "contributes": [
+    {
+      "keywords": [
+        "$time_morning"
+      ],
+      "voices": [
+        "voices/good-morning.ogg"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_noon"
+      ],
+      "voices": [
+        "voices/good-noon.ogg"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_evening"
+      ],
+      "voices": [
+        "voices/good-evening.ogg"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_midnight"
+      ],
+      "voices": [
+        "voices/good-night.ogg"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_each_hour"
+      ],
+      "voices": [
+        "voices/chatting-harvest.ogg",
+        "voices/chatting-adventure.ogg",
+        "voices/chatting-law.ogg"
+      ]
+    },
+    {
+      "keywords": [
+        "continue",
+        "catch",
+        "case",
+        "break",
+        "while",
+        "false",
+        "ture",
+        "switch",
+        "this",
+        "throw",
+        "try",
+        "else",
+        "for",
+        "foreach",
+        "echo",
+        "global",
+        "function",
+        "let",
+        "var"
+      ],
+      "voices": [
+        "voices/lalala.ogg",
+        "voices/dadada.ogg",
+        "voices/raining.ogg",
+        "voices/thundering.ogg",
+        "voices/winding.ogg",
+        "voices/toknow-1.ogg"
+      ]
+    },
+    {
+      "keywords": [
+        "abstract",
+        "class",
+        "const",
+        "default",
+        "die",
+        "enum",
+        "goto",
+        "if",
+        "in",
+        "is",
+        "isset",
+        "namespace",
+        "new",
+        "null",
+        "override",
+        "print",
+        "return",
+        "sizeof",
+        "static",
+        "string",
+        "typeof",
+        "void"
+      ],
+      "voices": [
+        "voices/breakthrough-1.ogg",
+        "voices/breakthrough-2.ogg",
+        "voices/breakthrough-3.ogg",
+        "voices/thundering.ogg",
+        "voices/breakthrough-3.ogg",
+        "voices/winding.ogg"
+      ]
+    },
+    {
+      "keywords": [
+        "params",
+        "object",
+        "nameof",
+        "checked",
+        "base",
+        "event",
+        "delegate",
+        "ref",
+        "out",
+        "require"
+      ],
+      "voices": [
+        "voices/like-food.ogg",
+        "voices/hate-food.ogg",
+        "voices/troubles.ogg",
+        "voices/likes.ogg",
+        "voices/about-us-playmate.ogg"
+      ]
+    },
+    {
+      "keywords": [
+        "bool",
+        "byte",
+        "char",
+        "decimal",
+        "double",
+        "float",
+        "int",
+        "long",
+        "sbyte",
+        "short",
+        "uint",
+        "ulong",
+        "ushort"
+      ],
+      "voices": [
+        "voices/about-reze.ogg",
+        "voices/about-parents.ogg",
+        "voices/about-kea.ogg",
+        "voices/about-amber.ogg",
+        "voices/about-jean.ogg",
+        "voices/about-lisa.ogg",
+        "voices/about-bennett.ogg",
+        "voices/about-diona.ogg",
+        "voices/about-mona.ogg",
+        "voices/about-sugar.ogg"
+      ]
+    }
+  ]
+}
