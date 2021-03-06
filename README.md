@@ -15,6 +15,10 @@
 - JavaScript
 - 欢迎添加
 
+## 适用于使用版本
+
+[Release](https://github.com/Ran-ying/Klee-rainbow-fart/releases)
+
 ## 关于语音包
 
 本语音包在 [可莉语音 - 原神WIKI_BWIKI_哔哩哔哩](https://wiki.biligame.com/ys/%E5%8F%AF%E8%8E%89%E8%AF%AD%E9%9F%B3) 获取，原型是 [原神](https://ys.mihoyo.com/) 游戏中的 [火花骑士·可莉](https://zh.moegirl.org.cn/index.php?title=%E5%8F%AF%E8%8E%89)，由 CV [花玲](https://space.bilibili.com/7966) 配音。
